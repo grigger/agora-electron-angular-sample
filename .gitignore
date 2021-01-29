@@ -23,6 +23,10 @@ speed-measure-plugin*.json
 .settings/
 *.sublime-workspace
 
+# Electron compiled output
+/electron/*.js
+/release
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
